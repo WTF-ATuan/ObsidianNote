@@ -7,10 +7,9 @@
         "id": "f41b9a0e7de4f2c5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "經歷 反思 內化.md",
-            "mode": "source"
+            "file": "Pasted image 20210824165908.png"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "經歷 反思 內化.md",
+                "file": "Pasted image 20210824165908.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +87,15 @@
   },
   "active": "f41b9a0e7de4f2c5",
   "lastOpenFiles": [
+    "Pasted image 20210824165908.png",
+    "Pitch Person.md",
+    "Coding 問題.md",
+    "經歷 反思 內化.md",
+    "README.md",
     "Untitled.md",
     "光遇 心得.md",
-    "Coding 問題.md",
     "意義是什麼.md",
     "Coding Note.md",
-    "Data Driven.md",
-    "Scrum.md",
-    "Command vs Query CQRS.md",
-    "心態.md",
-    "閱讀重點筆記.md"
+    "Data Driven.md"
   ]
 }
