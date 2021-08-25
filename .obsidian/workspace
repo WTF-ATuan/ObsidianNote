@@ -7,9 +7,10 @@
         "id": "f41b9a0e7de4f2c5",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Pasted image 20210824165908.png"
+            "file": "經歷 反思 內化.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20210824165908.png",
+                "file": "經歷 反思 內化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,11 +88,11 @@
   },
   "active": "f41b9a0e7de4f2c5",
   "lastOpenFiles": [
-    "Pasted image 20210824165908.png",
-    "Pitch Person.md",
-    "Coding 問題.md",
     "經歷 反思 內化.md",
+    "Coding 問題.md",
     "README.md",
+    "Pitch Person.md",
+    "Pasted image 20210824165908.png",
     "Untitled.md",
     "光遇 心得.md",
     "意義是什麼.md",
