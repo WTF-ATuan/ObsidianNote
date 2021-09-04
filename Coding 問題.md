@@ -23,8 +23,9 @@ character 該做什麼? feature?
 character 只是一個中心指揮官 他啥都不會做
 
 
+目的 : 我給角色 ID 以及 Data ID 給我的API  我的API 會直接回傳給我相對應的interface，在這個API上面設計卡住了 因為zenject的實作不太了解這個設計原則
 
-
+每個接口都有實例 
 
 
 
