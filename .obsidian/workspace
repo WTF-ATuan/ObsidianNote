@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "經歷 反思 內化.md",
+            "file": "problem.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "經歷 反思 內化.md",
+                "file": "problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "f41b9a0e7de4f2c5",
   "lastOpenFiles": [
+    "problem.md",
     "經歷 反思 內化.md",
-    "Untitled.md",
-    "Pitch Person.md",
-    "Coding 問題.md",
     "README.md",
-    "Pasted image 20210824165908.png",
+    "Pitch Person.md",
+    "AI 模仿輸入 hacker 解決方法.md",
+    "Coding 問題.md",
     "光遇 心得.md",
     "意義是什麼.md",
     "Coding Note.md",
-    "Data Driven.md"
+    "技術提案能力.md"
   ]
 }
