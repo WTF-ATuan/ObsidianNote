@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "故事發想.md",
+            "file": "螢幕支架需求.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "故事發想.md",
+                "file": "螢幕支架需求.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   "active": "f41b9a0e7de4f2c5",
   "lastOpenFiles": [
     "Untitled.md",
+    "故事發想.md",
     "problem.md",
     "經歷 反思 內化.md",
     "README.md",
@@ -96,7 +97,6 @@
     "AI 模仿輸入 hacker 解決方法.md",
     "Coding 問題.md",
     "光遇 心得.md",
-    "意義是什麼.md",
-    "Coding Note.md"
+    "意義是什麼.md"
   ]
 }
