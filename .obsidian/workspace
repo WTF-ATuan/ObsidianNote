@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "problem.md",
+            "file": "故事發想.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "problem.md",
+                "file": "故事發想.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "f41b9a0e7de4f2c5",
   "lastOpenFiles": [
+    "Untitled.md",
     "problem.md",
     "經歷 反思 內化.md",
     "README.md",
@@ -96,7 +97,6 @@
     "Coding 問題.md",
     "光遇 心得.md",
     "意義是什麼.md",
-    "Coding Note.md",
-    "技術提案能力.md"
+    "Coding Note.md"
   ]
 }
