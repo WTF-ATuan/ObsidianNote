@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "螢幕支架需求.md",
+            "file": "大三專題 目標.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "螢幕支架需求.md",
+                "file": "大三專題 目標.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "f41b9a0e7de4f2c5",
   "lastOpenFiles": [
-    "Untitled.md",
-    "故事發想.md",
-    "problem.md",
+    "大三專題 目標.md",
+    "Game Developer Youtube.md",
     "經歷 反思 內化.md",
-    "README.md",
-    "Pitch Person.md",
-    "AI 模仿輸入 hacker 解決方法.md",
-    "Coding 問題.md",
     "光遇 心得.md",
-    "意義是什麼.md"
+    "故事發想.md",
+    "螢幕支架需求.md",
+    "AI 模仿輸入 hacker 解決方法.md",
+    "problem.md",
+    "Untitled.md",
+    "README.md"
   ]
 }
