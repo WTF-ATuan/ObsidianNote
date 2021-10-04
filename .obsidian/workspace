@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3983438da30a48ec",
+        "id": "11a1e340d502a50d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面試.md",
+            "file": "Benson.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面試.md",
+                "file": "Benson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3983438da30a48ec",
+  "active": "11a1e340d502a50d",
   "lastOpenFiles": [
     "Untitled.md",
-    "筆記 官僚體系：問題不在扁平化，而在打破心中的科層，重點不在組織架構，而在分工方式.md",
-    "Scrum Master.md",
-    "筆記 產品必備資訊架構入門溝通法，將需求成功轉化有效設計.md",
-    "筆記 組織決策：全員參與制、認可決與雙連結.md",
-    "筆記 分工理論.md",
-    "Pasted image 20210915183727.png",
-    "經歷 反思 內化.md",
-    "大三專題 目標.md",
-    "README.md"
+    "面試.md",
+    "升降桌 需求.md",
+    "明日代辦事項.md",
+    "Note/Scrum Master.md",
+    "Note/筆記 官僚體系：問題不在扁平化，而在打破心中的科層，重點不在組織架構，而在分工方式.md",
+    "Note/筆記 產品必備資訊架構入門溝通法，將需求成功轉化有效設計.md",
+    "Note/筆記 分工理論.md",
+    "README.md",
+    "經歷 反思 內化.md"
   ]
 }
